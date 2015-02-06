@@ -15,3 +15,10 @@ Idealmente se responderían estas preguntas
  - Qué es una pesadilla
  - Qué trucos aprendiste
  - De qué pieza de código estás orgulloso
+
+Ten un público objetivo en mente
+----
+
+A veces es complicado balancear. Si tu plática es de muy alto nivel, el público podría perderse con tus ejemplos. Si es muy básica, todos van a saber de qué hablas y perder la atención.
+
+En ChelaJS intentamos que nuestras pláticas vayan a un nivel medio tanto de experiencia como de entendimiento del lenguaje. Es mejor que alguien llegue a su casa con curiosidad de lo que se perdió a que todos lleguen a su casa pensando que mejor hubieran visto los tutoriales en vez de asistir al meetup.
