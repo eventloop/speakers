@@ -32,3 +32,8 @@ Los demos en vivo
 ---
 
 A menos que tengas mucha mucha seguridad en los demos, mucho puede salir mal. Si estás muy seguro de que quieres un demo en vivo, practicalo muchas veces y no dependas de agentes externos como la red, o que los participantes ingresen con un browser soportado.
+
+
+## Código de Conducta
+
+Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
